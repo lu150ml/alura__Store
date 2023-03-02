@@ -8,18 +8,15 @@
 }
 
 .cabecalho {
-background-color:#00cc99 ;
 grid-area: cabecalho;
 
 }
  
 .conteudo {
-    background-color: #ff8888;
     grid-area: conteudo;
 
 }
 
 .rodape {
-    background-color:#0099ff ;
     grid-area:rodape;
 }
